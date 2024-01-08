@@ -1,0 +1,10 @@
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe.config
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.exe
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\bin\Debug\WindowsFormsApp13.pdb
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.AssemblyReference.cache
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Form1.resources
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.Properties.Resources.resources
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.GenerateResource.cache
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.exe
+C:\Users\user\Documents\Görsel Programlama 2\WindowsFormsApp13\obj\Debug\WindowsFormsApp13.pdb
